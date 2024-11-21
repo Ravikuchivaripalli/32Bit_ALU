@@ -6,6 +6,7 @@ Write a verilog code for 32 bit ALU supporting four logical and four arithmetic 
 
 To Verify the Functionality using Test Bench.
 
+
 # Tool Required:
 
 Functional Simulation: Incisive Simulator (ncvlog, ncelab, ncsim)
